@@ -29,6 +29,7 @@ body {
 }
 .container{
   width: 100%;
+  margin: 0 auto;
   max-width: 1024px;
   position: relative;
   display: flex;
@@ -48,7 +49,6 @@ body {
   position: fixed;
   display: flex;
   top: 0;
-  left: 0;
   justify-content: space-around;
   align-items: center;
   background-color: rgb(255, 217, 0);
